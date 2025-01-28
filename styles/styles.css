@@ -79,3 +79,36 @@ section.skills {
   color: #555;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+
+section.projects {
+  padding: 20px;
+  background-color: #F4F4F4;
+  text-align: center;
+  border-top: 2px solid #4CAF50;
+}
+
+.projects h2 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.project {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.project h3 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #4CAF50;
+}
+
+.project p {
+  margin: 10px 0 0;
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.5;
+}
